@@ -14,7 +14,7 @@ Químico formado pela Universidade de São Paulo, atualmente atuando como cienti
 
 ### Linguagens Utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoVieira96)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoVieira96&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ThiagoVieira96/ThiagoVieira96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
