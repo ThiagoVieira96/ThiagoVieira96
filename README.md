@@ -3,6 +3,9 @@
 
 ###### Sobre o Thiago
 Químico formado pela Universidade de São Paulo, atualmente atuando como cientista de dados, com conhecimentos nas linguagens Python e SQL, além de familiaridade com diversas ferramentas importantes na área (NumPy, Scikit-learn, Matplotlib, Pandas, etc) e também em conceitos fundamentais (Crisp-dm, Análise exploratória, PCA) 
+
+### Detalhes
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoVieira96)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ThiagoVieira96/ThiagoVieira96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
