@@ -18,7 +18,7 @@ Químico formado pela Universidade de São Paulo, atualmente atuando como cienti
 
 ### Contatos
 
-[<img src = 'https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=black' alt='LinkedIn' height='30'>]
+[<img src = 'https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=black' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/thiago-vieira96/)
 
 <!--
 **ThiagoVieira96/ThiagoVieira96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
