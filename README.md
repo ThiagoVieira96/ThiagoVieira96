@@ -9,6 +9,7 @@ Para aprimorar meus conhecimentos nessa área, busquei formação na EBAC, onde 
 Minha transição de químico para cientista de dados foi impulsionada pelo desejo de aprender e enfrentar novos desafios. Reconheço a importância de habilidades lógicas e analíticas, cultivadas ao longo de minha formação, e estou comprometido em aprimorá-las continuamente.
 
 Atualmente, estou em busca de oportunidades para aplicar meus conhecimentos em análise de dados e contribuir para a resolução de problemas de maneira eficaz. Estou pronto para abraçar novos desafios e colaborar com equipes motivadas em ambientes dinâmicos e desafiadores.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hello! I'm Thiago Seregni Vieira, a chemistry graduate from the University of São Paulo, specializing in materials and analytical chemistry. After my graduation, I decided to explore the exciting field of data science, driven by a passion for applying statistical models to solve real-world challenges.
 
