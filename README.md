@@ -2,22 +2,22 @@
 
 
 ###### Sobre mim.
-Olá! Sou Thiago Seregni Vieira, graduado em química pela Universidade de São Paulo, com especialização em química de materiais e analítica. Após minha formação, decidi explorar a empolgante área da ciência de dados, motivado pela paixão em aplicar modelos estatísticos para solucionar desafios do mundo real.
+Olá! Sou Thiago Seregni Vieira, graduado em química pela Universidade de São Paulo, com especialização em química de materiais e analítica. Após minha formação, decidi explorar a área da ciência de dados, motivado pela paixão em aplicar modelos estatísticos para solucionar desafios do mundo real.
 
-Para aprimorar meus conhecimentos nessa área, busquei formação na EBAC, onde adquiri habilidades práticas em Python, Scikit-learn, NumPy, Matplotlib, Seaborn, Streamlit, Machine Learning, SQL e AWS. Além disso, planejo expandir minha expertise, aprendendo linguagem R e Power BI.
+Para aprimorar meus conhecimentos nessa área, estou atualmente fazendo minha segunda graduação, em ciência de dados na Univesp. Além disso, adquiri por diversos meios, habilidades práticas em Python, Scikit-learn, NumPy, Matplotlib, Seaborn, Streamlit, Machine Learning, SQL e AWS.
 
 Minha transição de químico para cientista de dados foi impulsionada pelo desejo de aprender e enfrentar novos desafios. Reconheço a importância de habilidades lógicas e analíticas, cultivadas ao longo de minha formação, e estou comprometido em aprimorá-las continuamente.
 
 Atualmente, estou em busca de oportunidades para aplicar meus conhecimentos em análise de dados e contribuir para a resolução de problemas de maneira eficaz. Estou pronto para abraçar novos desafios e colaborar com equipes motivadas em ambientes dinâmicos e desafiadores.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Hello! I'm Thiago Seregni Vieira, a chemistry graduate from the University of São Paulo, specializing in materials and analytical chemistry. After my graduation, I decided to explore the exciting field of data science, driven by a passion for applying statistical models to solve real-world challenges.
+HHello! I’m Thiago Seregni Vieira, a graduate in Chemistry from the University of São Paulo, with a specialization in materials and analytical chemistry. After completing my degree, I decided to explore the field of data science, driven by my passion for applying statistical models to solve real-world challenges.
 
-To enhance my skills in this area, I pursued training at EBAC, where I gained practical skills in Python, Scikit-learn, NumPy, Matplotlib, Seaborn, Streamlit, Machine Learning, SQL, and AWS. Additionally, I plan to expand my expertise by learning R and Power BI.
+To deepen my knowledge in this area, I am currently pursuing a second degree in Data Science at Univesp. In addition, I have gained hands-on skills through various means in Python, Scikit-learn, NumPy, Matplotlib, Seaborn, Streamlit, Machine Learning, SQL, and AWS.
 
-My transition from chemist to data scientist was fueled by a desire to learn and tackle new challenges. I recognize the importance of logical and analytical skills, cultivated throughout my education, and I am committed to continuously improving them.
+My transition from chemist to data scientist was driven by a desire to learn and take on new challenges. I recognize the importance of the logical and analytical skills I developed throughout my education, and I am committed to continuously improving them.
 
-Currently, I am seeking opportunities to apply my data analysis skills and contribute to effective problem-solving. I am ready to embrace new challenges and collaborate with motivated teams in dynamic and challenging environments.
+I am currently looking for opportunities to apply my knowledge in data analysis and contribute to solving problems effectively. I am ready to embrace new challenges and collaborate with motivated teams in dynamic and challenging environments.
 
 
 ### Detalhes
